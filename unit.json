@@ -1,0 +1,442 @@
+[
+	{
+		"Song": "Legend Girls!!",
+		"Member": [ "Haruka", "Tomoka", "Yuriko", "Serika", "Shizuka" ] 
+	},
+	{
+		"Song": "PRETTY DREAMER",
+		"Member": [ "Hibiki", "Mirai", "Fuka", "Anna", "Nao" ] 
+	},
+	{
+		"Song": "Blue Symphony",
+		"Member": [ "Chihaya", "Shiho", "Kotoha", "Megumi" ] 
+	},
+	{
+		"Song": "Sentimental Venus",
+		"Member": [ "Iori", "Emily", "Mizuki", "Rio" ] 
+	},
+	{
+		"Song": "Marionetteは眠らない",
+		"Member": [ "Miki", "Tsubasa", "Reika", "Julia" ] 
+	},
+	{
+		"Song": "カワラナイモノ",
+		"Member": [ "Azusa", "Karen", "Sayoko", "Noriko" ] 
+	},
+	{
+		"Song": "Good-Sleep, Baby♡",
+		"Member": [ "Yayoi", "Tamaki", "Iku", "Kana" ] 
+	},
+	{
+		"Song": "Helloコンチェルト",
+		"Member": [ "Ritsuko", "Hinata", "Minako", "Arisa" ] 
+	},
+	{
+		"Song": "瞳の中のシリウス",
+		"Member": [ "Takane", "Umi", "Matsuri", "Miya" ] 
+	},
+	{
+		"Song": "Fu-Wa-Du-Wa",
+		"Member": [ "Makoto", "Mami", "Elena", "Ayumu" ] 
+	},
+	{
+		"Song": "ココロがかえる場所",
+		"Member": [ "Yukiho", "Momoko", "Chizuru", "Roco" ] 
+	},
+	{
+		"Song": "Bigバルーン◎",
+		"Member": [ "Ami", "Subaru", "Akane", "Konomi" ] 
+	},
+
+	{
+		"Song": "合言葉はスタートアップ!",
+		"Member": [ "Hibiki", "Ritsuko", "Yayoi", "Ami", "Iori" ] 
+	},
+	{
+		"Song": "Growing Storm!",
+		"Member": [ "Mirai", "Tsubasa", "Yuriko", "Mizuki", "Anna" ] 
+	},
+	{
+		"Song": "Shooting Stars",
+		"Member": [ "Shizuka", "Reika", "Shiho", "Akane", "Serika" ] 
+	},
+	{
+		"Song": "Eternal Harmony",
+		"Member": [ "Chihaya", "Emily", "Julia", "Matsuri", "Fuka" ] 
+	},
+	{
+		"Song": "HOME, SWEET FRIENDSHIP",
+		"Member": [ "Haruka", "Momoko", "Noriko", "Arisa", "Nao" ] 
+	},
+	{
+		"Song": "ジレるハートに火をつけて",
+		"Member": [ "Kotoha", "Tamaki", "Umi", "Megumi", "Miya" ] 
+	},
+	{
+		"Song": "Birth of Color",
+		"Member": [ "Makoto", "Yukiho", "Ayumu", "Azusa", "Kana" ] 
+	},
+	{
+		"Song": "ドリームトラベラー",
+		"Member": [ "Konomi", "Hinata", "Minako", "Iku", "Mami" ] 
+	},
+	{
+		"Song": "星屑のシンフォニア",
+		"Member": [ "Miki", "Sayoko", "Tomoka", "Subaru", "Chizuru" ] 
+	},
+	{
+		"Song": "STANDING ALIVE",
+		"Member": [ "Karen", "Takane", "Elena", "Rio", "Roco" ] 
+	},
+
+	{
+		"Song": "ハルカナミライ",
+		"Member": [ "Haruka", "Mirai" ] 
+	},
+	{
+		"Song": "成長Chu→LOVER!!",
+		"Member": [ "Anna", "Yuriko" ] 
+	},
+	{
+		"Song": "エスケープ",
+		"Member": [ "Julia", "Megumi" ] 
+	},
+	{
+		"Song": "Eternal Spiral",
+		"Member": [ "Yayoi", "Kana" ] 
+	},
+	{
+		"Song": "piece of cake",
+		"Member": [ "Reika", "Shiho" ] 
+	},
+	{
+		"Song": "アライブファクター",
+		"Member": [ "Chihaya", "Shizuka" ] 
+	},
+	{
+		"Song": "Persona Voice",
+		"Member": [ "Chizuru", "Yukiho" ] 
+	},
+	{
+		"Song": "Cut. Cut. Cut.",
+		"Member": [ "Momoko", "Mizuki" ] 
+	},
+	{
+		"Song": "Smiling Crescent",
+		"Member": [ "Serika", "Miya" ] 
+	},
+	{
+		"Song": "Decided",
+		"Member": [ "Matsuri", "Konomi" ] 
+	},
+	{
+		"Song": "深層マーメイド",
+		"Member": [ "Tsubasa", "Hibiki" ] 
+	},
+	{
+		"Song": "HELLO, YOUR ANGEL♪",
+		"Member": [ "Tomoka", "Iku" ] 
+	},
+	{
+		"Song": "G♡F",
+		"Member": [ "Ritsuko", "Karen" ] 
+	},
+	{
+		"Song": "little trip around the world",
+		"Member": [ "Emily", "Iori" ] 
+	},
+	{
+		"Song": "Melody in scape",
+		"Member": [ "Sayoko", "Minako" ] 
+	},
+	{
+		"Song": "\"Your\" HOME TOWN",
+		"Member": [ "Hinata", "Ami" ] 
+	},
+	{
+		"Song": "fruity love",
+		"Member": [ "Akane", "Roco" ] 
+	},
+	{
+		"Song": "夜に輝く星座のように",
+		"Member": [ "Arisa", "Nao" ] 
+	},
+	{
+		"Song": "秘密のメモリーズ",
+		"Member": [ "Takane", "Fuka" ] 
+	},
+	{
+		"Song": "たしかな足跡",
+		"Member": [ "Azusa", "Rio" ] 
+	},
+	{
+		"Song": "Understand? Understand!",
+		"Member": [ "Umi", "Kotoha" ] 
+	},
+	{
+		"Song": "ジャングル☆パーティー",
+		"Member": [ "Tamaki", "Mami" ] 
+	},
+	{
+		"Song": "Beat the World!!",
+		"Member": [ "Makoto", "Ayumu" ] 
+	},
+	{
+		"Song": "Emergence Vibe",
+		"Member": [ "Elena", "Miki" ] 
+	},
+	{
+		"Song": "Dreamscape",
+		"Member": [ "Subaru", "Noriko" ] 
+	},
+
+	{
+		"Song": "ランニング・ハイッ",
+		"Member": [ "Emily", "Hinata", "Nao" ] 
+	},
+	{
+		"Song": "ゲキテキ! ムテキ! 恋したい!",
+		"Member": [ "Elena", "Iku", "Roco" ] 
+	},
+	{
+		"Song": "Bonnes! Boones!! Vacances!!!",
+		"Member": [ "Tsubasa", "Minako", "Noriko" ] 
+	},
+	{
+		"Song": "NO CURRY NO LIFE",
+		"Member": [ "Anna", "Rio", "Kana" ] 
+	},
+	{
+		"Song": "Raise the FLAG",
+		"Member": [ "Megumi", "Ayumu", "Mizuki" ] 
+	},
+	{
+		"Song": "P.S I Love You",
+		"Member": [ "Karen", "Tomoka", "Chizuru" ] 
+	},
+	{
+		"Song": "プリムラ",
+		"Member": [ "Subaru", "Yuriko", "Shizuka" ] 
+	},
+	{
+		"Song": "待ちぼうけのLacrima",
+		"Member": [ "Reika", "Julia", "Sayoko" ] 
+	},
+	{
+		"Song": "リフレインキス",
+		"Member": [ "Shiho", "Umi", "Arisa", "Kotoha" ] 
+	},
+	{
+		"Song": "Sweet Sweet Soul",
+		"Member": [ "Tamaki", "Akane", "Serika" ] 
+	},
+	{
+		"Song": "メメント？モメント♪ルルルルル☆",
+		"Member": [ "Mirai", "Matsuri", "Miya" ] 
+	},
+	{
+		"Song": "永遠の花",
+		"Member": [ "Momoko", "Fuka", "Konomi" ] 
+	},
+
+	{
+		"Song": "インヴィンシブル・ジャスティス",
+		"Member": [ "Tsubasa", "Umi" ] 
+	},
+	{
+		"Song": "FairyTaleじゃいられない",
+		"Member": [ "Shizuka", "Tsumugi", "Megumi", "Julia", "Shiho" ] 
+	},
+	{
+		"Song": "Angelic Parade♪",
+		"Member": [ "Tsubasa", "Serika", "Kaori", "Reika", "Anna" ] 
+	},
+	{
+		"Song": "Princess Be Ambitious!!",
+		"Member": [ "Mirai", "Matsuri", "Kana", "Yuriko", "Emily" ] 
+	},
+	{
+		"Song": "昏き星、遠い月",
+		"Member": [ "Tomoka", "Megumi", "Chizuru", "Rio" ] 
+	},
+	{
+		"Song": "虹色letters",
+		"Member": [ "Elena", "Miya" ] 
+	},
+	{
+		"Song": "ZETTAI × BREAK!! トゥインクルリズム",
+		"Member": [ "Iku", "Yuriko", "Arisa" ] 
+	},
+	{
+		"Song": "Melty Fantasia",
+		"Member": [ "Mizuki", "Tsumugi", "Shiho" ] 
+	},
+	{
+		"Song": "花ざかりWeekend✿",
+		"Member": [ "Kaori", "Fuka", "Reika", "Konomi" ] 
+	},
+	{
+		"Song": "咲くは浮世の君花火",
+		"Member": [ "Sayoko", "Nao", "Umi", "Minako", "Noriko" ] 
+	},
+	{
+		"Song": "ハーモニクス",
+		"Member": [ "Julia", "Shizuka" ] 
+	},
+	{
+		"Song": "ハルマチ女子",
+		"Member": [ "Karen", "Akane", "Tsubasa" ] 
+	},
+	{
+		"Song": "だってあなたはプリンセス",
+		"Member": [ "Matsuri", "Emily" ] 
+	},
+	{
+		"Song": "月曜日のクリームソーダ",
+		"Member": [ "Roco", "Ayumu", "Subaru", "Momoko" ] 
+	},
+	{
+		"Song": "ピコピコIIKO! インベーダー",
+		"Member": [ "Hinata", "Serika", "Tamaki", "Anna" ] 
+	},
+	{
+		"Song": "Episode. Tiara",
+		"Member": [ "Mirai", "Kana", "Kotoha" ] 
+	},
+
+	{
+		"Song": "Justice OR Voice",
+		"Member": [ "Tsumugi", "Kaori", "Julia", "Makoto", "Akane" ] 
+	},
+	{
+		"Song": "White Vows",
+		"Member": [ "Fuka", "Rio", "Kaori", "Chizuru", "Konomi" ] 
+	},
+	{
+		"Song": "dans l‘obscurité",
+		"Member": [ "Yuriko", "Subaru", "Mizuki", "Anna", "Roco" ] 
+	},
+	{
+		"Song": "ラビットファー",
+		"Member": [ "Miki", "Yukiho", "Makoto", "Iori" ] 
+	},
+
+	{
+		"Song": "創造は始まりの風を連れて",
+		"Member": [ "Yuriko", "Tomoka", "Serika", "Arisa", "Roco" ] 
+	},
+	{
+		"Song": "侠気乱舞",
+		"Member": [ "Julia", "Momoko", "Tamaki", "Hinata", "Noriko" ] 
+	},
+	{
+		"Song": "赤い世界が消える頃",
+		"Member": [ "Kana", "Minako", "Karen", "Mizuki", "Reika" ] 
+	},
+
+	{
+		"Song": "ビッグバンズバリボー!!!!!",
+		"Member": [ "Umi", "Megumi", "Sayoko", "Fuka", "Nao" ] 
+	},
+	{
+		"Song": "オーディナリィ・クローバー",
+		"Member": [ "Kaori", "Shizuka", "Anna", "Rio", "Miya" ] 
+	},
+	{
+		"Song": "ラスト・アクトレス",
+		"Member": [ "Kotoha", "Momoko", "Konomi", "Mizuki", "Tsumugi" ] 
+	},
+
+	{
+		"Song": "Girl meets Wonder",
+		"Member": [ "Serika", "Momoko", "Matsuri", "Hibiki", "Subaru" ] 
+	},
+
+	{
+		"Song": "GO MY WAY!!",
+		"Member": [ "Mirai", "Shizuka" ] 
+	},
+	{
+		"Song": "ビジョナリー",
+		"Member": [ "Anna", "Serika" ] 
+	},
+	{
+		"Song": "アイル",
+		"Member": [ "Tsubasa", "Julia", "Mizuki" ] 
+	},
+	{
+		"Song": "Vault That Borderline!",
+		"Member": [ "Tsubasa", "Julia", "Sayoko", "Yuriko", "Mizuki" ] 
+	},
+	{
+		"Song": "君との明日を願うから",
+		"Member": [ "Mirai", "Shizuka", "Tsubasa" ] 
+	},
+	{
+		"Song": "私はアイドル♡",
+		"Member": [ "Mizuki", "Megumi", "Miya", "Momoko", "Matsuri" ] 
+	},
+
+	{
+		"Song": "L・O・B・M",
+		"Member": [ "Kana", "Shiho" ] 
+	},
+	{
+		"Song": "Do-Dai",
+		"Member": [ "Serika", "Umi" ] 
+	},
+	{
+		"Song": "神SUMMER!!",
+		"Member": [ "Nao", "Minako" ] 
+	},
+	{
+		"Song": "ONLY MY NOTE",
+		"Member": [ "Haruka", "Mirai", "Kana" ] 
+	},
+	{
+		"Song": "MUSIC♪",
+		"Member": [ "Kaori", "Sayoko", "Kana" ] 
+	},
+	{
+		"Song": "チェリー",
+		"Member": [ "Kotoha", "Elena", "Megumi" ] 
+	},
+	{
+		"Song": "i",
+		"Member": [ "Serika", "Arisa" ] 
+	},
+	{
+		"Song": "Clover Days",
+		"Member": [ "Kana", "Shiho", "Serika", "Umi" ] 
+	},
+	{
+		"Song": "キラメキラリ",
+		"Member": [ "Akane", "Tsumugi" ] 
+	},
+
+	{
+		"Song": "U・N・M・E・Iライブ",
+		"Member": [ "Mirai", "Shizuka", "Serika" ] 
+	},
+
+	{
+		"Song": "オーバーマスター",
+		"Member": [ "Miki", "Hibiki", "Takane" ] 
+	},
+	{
+		"Song": "きゅんっ!ヴァンパイアガール",
+		"Member": [ "Iori", "Iku", "Momoko" ] 
+	},
+	{
+		"Song": "サンリズム・オーケストラ♪",
+		"Member": [ "Tsubasa", "Hinata", "Minako", "Elena", "Kana" ] 
+	},
+	{
+		"Song": "brave HARMONY",
+		"Member": [ "Reika", "Sayoko", "Tomoka", "Ayumu", "Shizuka" ] 
+	},
+	{
+		"Song": "Starry Melody",
+		"Member": [ "Mirai", "Kotoha", "Fuka", "Serika", "Arisa" ] }
+
+]
